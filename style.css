@@ -1,0 +1,42 @@
+section{
+    background-color: rgb(19, 19, 58);
+    color: white;
+}
+
+.container{
+    max-width: ;
+}
+
+h1{
+    text-align: center;
+    padding-top: 5%;
+    margin-right: 50px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 5%;
+    
+}
+
+.main1{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.main2{
+    text-align: center;
+    padding-top: 1%;
+}
+
+h2{
+    font-size: 100px;
+}
+
+.result{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-size: 80px;
+    margin-right: 50px;
+}
